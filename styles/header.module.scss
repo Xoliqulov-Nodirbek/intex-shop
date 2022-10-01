@@ -1,0 +1,25 @@
+.category:hover {
+    background: rgba(0, 170, 170, 0.5);
+}
+
+
+/* width */
+.categoryScroll::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+  
+  /* Track */
+.categoryScroll::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+  
+  /* Handle */
+.categoryScroll::-webkit-scrollbar-thumb {
+    background: red;
+}
+  
+  /* Handle on hover */
+.categoryScroll::-webkit-scrollbar-thumb:hover {
+    background: red;
+}
